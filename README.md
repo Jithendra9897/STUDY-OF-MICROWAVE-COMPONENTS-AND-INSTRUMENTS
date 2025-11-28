@@ -10,7 +10,7 @@ Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted secti
 
 ## Objectives:
 1.	Note relevant Technical specifications of the instruments. 
-2.	Study position and functions of the front panel controls of the equipment.
+2.	Study position and functions of the front panel controls of the equipment. 
 3.	Know basic principle of operation and functional block diagram of the instrument.
 4.	Facilities provided and limitations of the equipment if any.
 5.	Know initial settings of controls of the equipments before switching on the supply.
