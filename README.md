@@ -9,7 +9,7 @@ To become familiar with microwave components and instruments available in the la
 Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer.
 
 ## Objectives:
-1.	Note relevant Technical specifications of the instruments.
+1.	Note relevant Technical specifications of the instruments. 
 2.	Study position and functions of the front panel controls of the equipment.
 3.	Know basic principle of operation and functional block diagram of the instrument.
 4.	Facilities provided and limitations of the equipment if any.
